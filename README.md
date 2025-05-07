@@ -12,7 +12,7 @@ This directory will host a collection of scripts and processes related to the NG
 * **Output:** A CSV file named `qsa_resultados.csv` containing the CNPJ, the name of each partner/administrator (`nome_qsa`), and their qualification (`qualificacao_qsa`). If no QSA information is found or an error occurs for a CNPJ, "N/A" is used for the partner details.
 * **Dependencies:**
     * Python 3.x
-    * `requests` library (install using `pip install requests`)
+    * `pip install selenium beautifulsoup4 pillow pytesseract`
 * **Usage:**
     1.  Ensure Python 3 and the `requests` library are installed.
     2.  Create a `cnpj.csv` file in this directory with the CNPJs you want to query.
