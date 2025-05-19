@@ -1,4 +1,4 @@
-# 🏠💙 Data Processing for TETO 💙🏠
+# 🏠💙  TETO Data Processing 💙🏠
 
 This directory will host a collection of scripts and processes related to the NGO **TETO** and its operations. These scripts are designed to support various data extraction, transformation, and analysis tasks pertinent to **TETO**'s work.
 
